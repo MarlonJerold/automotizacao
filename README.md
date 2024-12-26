@@ -49,7 +49,7 @@ Ao rodar o comando, veremos que nosso sistema está ativo
 ![image](https://github.com/user-attachments/assets/1ca9bd26-d984-4f02-ad00-e2acb2598d7e)
 
 
-E para nível de verificação, podemos pesquisar localhost em um navegar e verificar nosso serviço no Ar
+E para nível de verificação, podemos pesquisar localhost em um navegador e verificar nosso serviço no Ar
 
 ![image](https://github.com/user-attachments/assets/abc74e81-e369-42ed-be73-e64b18e35e39)
 
